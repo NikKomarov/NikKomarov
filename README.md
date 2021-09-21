@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- I'm an experienced .net developer. Currently working at cian.ru - russian Zillow)
+Currently working at cian.ru - russian Zillow)
 - Have passion to F#, but almost never used it in production
 - Have some experience in frontend development
 - Love power bi and visualizing data
